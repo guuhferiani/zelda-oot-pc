@@ -39,7 +39,7 @@ O **Hookshot** é um projeto de **recompilação estática**. O código do jogo 
 
 ## 🚀 Como Compilar e Jogar no Windows
 
-1. Baixe o instalador oficial: [`HookshotBuilder.exe`](https://github.com/NotRexed/Hookshot/releases/latest).
+1. Baixe o instalador oficial: [`HookshotBuilder.exe`](https://github.com/guuhferiani/zelda-oot-pc/releases/latest).
 2. Execute o **HookshotBuilder.exe**.
 3. Selecione o seu arquivo do jogo do Switch 2 (`.nup`, versão v131072 / `0400486024DEC000`).
 4. Ative os recursos recomendados para sua placa de vídeo:
